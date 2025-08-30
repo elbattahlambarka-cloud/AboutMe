@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm [Lambarka]!</h1>
-<h3 align="center">A passionate Frontend Developer from [Morocco]</h3>
+<h1 align="center">👋 Hi, I'm Lambarka!</h1>
+<h3 align="center">A passionate Frontend Developer from Morocco</h3>
 
 <p align="center">
   <a href="[www.linkedin.com/in/lambarka-elbattah-859a30279]">LinkedIn</a> •
